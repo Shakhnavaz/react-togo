@@ -5,6 +5,9 @@ import Score from './components/Score/Score'
 import Points from './components/Points'
 import Currency from './components/Currency'
 
+import RechartsExample from "./components/RechartsExample";
+// import ChartsJSExample from "./components/ChartJSExample";
+
 
 
 function App() {

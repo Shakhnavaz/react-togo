@@ -1,4 +1,4 @@
-
+import RechartsExample from "./RechartsExample";
 
 
 const Balance = () => {
@@ -14,7 +14,8 @@ const Balance = () => {
             </div>
             
 
-            <img  className="h-full w-full" src="assets/graph.svg" />
+            <RechartsExample />
+
         </div>
         
         </>

@@ -13,7 +13,7 @@ const Profile = () => {
             </div>
             
 
-            <img src="assets/telegram-peer-photo-size-2-1898846866409367567-1-0-0 1.png" alt="" />
+            <img src="assets/fire-icon.svg" alt="" />
         </div>
     )
 }

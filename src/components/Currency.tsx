@@ -7,7 +7,7 @@ const Currency = () => {
                 <p className="text-accent">TOGO</p> / USD
             </div> 
 
-                <img src="assets/graph2.svg" className="w-full h-full" />                  
+                <img src="assets/graph2.svg" className="w-full h-14" />                  
             
         </div>
         
