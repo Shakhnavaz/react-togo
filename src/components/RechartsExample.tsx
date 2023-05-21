@@ -1,4 +1,4 @@
-import { Line, LineChart, CartesianGrid, Bar, Tooltip } from "recharts";
+import { Line, LineChart, CartesianGrid, Bar } from "recharts";
 
 const data = [
     { TOGO: 12, angular: 37, },
